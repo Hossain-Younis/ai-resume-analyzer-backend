@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+spacy
+scikit-learn
+numpy
+regex
